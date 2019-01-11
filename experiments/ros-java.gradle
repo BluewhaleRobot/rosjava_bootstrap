@@ -94,7 +94,7 @@ repositories {
   maven {
     url "http://repository.springsource.com/maven/bundles/external"
   }
-  jcenter()
+  maven{ url'http://maven.aliyun.com/nexus/content/repositories/jcenter'}
 }
 
 /***********************
