@@ -39,7 +39,7 @@ rootProject.buildscript {
             }
         }
         maven {
-            url "https://github.com/rosjava/rosjava_mvn_repo/raw/master"
+            url "https://github.com/bluewhalerobot/rosjava_mvn_repo/raw/master"
         }
         maven{ url'http://maven.aliyun.com/nexus/content/groups/public/' }
         maven{ url'http://maven.aliyun.com/nexus/content/repositories/jcenter'}
